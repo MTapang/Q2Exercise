@@ -1,0 +1,9 @@
+h1{
+	font-family: lucida handwriting;
+	color: white;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	text-shadow: 4px 3px 4px black;
+	background-color: #CA374D;
+}
